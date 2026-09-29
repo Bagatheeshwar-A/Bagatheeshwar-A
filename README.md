@@ -4,9 +4,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:1a0033,100:00fff2&height=260&section=header&text=BAGATHEESHWAR&fontSize=60&fontColor=00fff2&animation=twinkling&fontAlignY=40&desc=//%20something%20the%20universe%20doesn't%20have%20yet&descAlignY=62&descSize=18&descColor=ff00c8" width="100%" />
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=720&lines=>+booting+brain.exe...;>+access+granted+🔓;>+I+don't+copy+ideas.+I+build+the+ones+that+don't+exist.;>+breaking+things+(legally)+since+day+one+💀;>+status:+dangerously+curious+⚡" alt="typing" />
-</a>
 
 </div>
 
